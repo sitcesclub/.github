@@ -1,7 +1,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sitcesclub/.github/main/profile/logo.svg" width="400px" alt="CES Logo"/>
+  <img src="https://raw.githubusercontent.com/sitcesclub/.github/main/profile/ces-logo-main.png" width="400px" alt="CES Logo"/>
 </p>
 
 <h1 align="center">Welcome to CES 👋</h1>
